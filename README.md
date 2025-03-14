@@ -1,1 +1,2 @@
 # odin-recipes
+This project is hopefully a quick one and aims to show my skills in several key areas such as Git, the CLI and HTML. It will consist of a main index page which links to several recipes. Hopefully in the future, I will make it look nicer than it will once I have completed this as I aim to include CSS in the future.
